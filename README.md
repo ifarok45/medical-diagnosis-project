@@ -29,6 +29,7 @@ The system predicts possible medical conditions based on structured medical inpu
 - Python
 - Pandas
 - NumPy
+- SQL
 
 ### Machine Learning
 - Scikit-learn
@@ -83,8 +84,3 @@ This project reflects practical experience in developing an end-to-end intellige
 
 ---
 
-## Author Contribution
-
-**Abdullah Mahmoud**
-- Data manipulation
-- UI development
